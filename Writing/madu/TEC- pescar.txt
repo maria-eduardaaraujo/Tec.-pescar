@@ -1,40 +1,28 @@
 ﻿TEC- pescar
 introdução: (madu)
 
-
 O TEC-Pescar é um site criado pela turma de Tecnologia da Informação do Projeto Pescar, com o objetivo de apresentar nossa trajetória, conquistas e aprendizados ao longo do curso. Aqui, mostramos como a formação técnica e o trabalho em equipe podem transformar jovens em profissionais prontos para o futuro. Este espaço representa nossa dedicação, criatividade e o desejo de crescer juntos através da tecnologia.
 
-
-Alex: (alex)
-
-
-
-
-
-
+Alex: (madu)
+Alex, se comunica muito bem, antes mal conseguia falar em público mas o pescar o ajudou e hoje ele fala muito bem, muito bom fazendo slides no canva, além de programar bem e saber  fazer planilhas como ninguém, Alex é um ótimo profissional e uma ótima pessoa.
 Deni: (luciano)
-Deni, 
-
-
+Deni, sempre mantendo o bom humor, ótimo programando em HTML, aprende as coisas rápido, e busca ter um foco para poder construir seu futuro.
 Gabriel:(luciano)
 Gabriel, nosso melhor programador, um cara incrível, um menino gentil e que está diariamente buscando ensinar um pouco mais sobre seu conhecimento a todos, sempre atrás de alternativas para facilitar o trabalho de seus colegas.
-
-
 Izadora: (madu)
 Izadora, nossa menina mais prestativa e querida por todos, sempre disposta a ajudar a quem for preciso, e demonstrando sempre a vontade de estar aprendendo cada vez mais, busca sempre entusiasmar a todos a sua volta, aumentando o astral da turma.
+Luciano:(madu)
+Luciano, um menino que sabe escrever como nenhum outro, tendo uma criatividade contagiante, se preocupa com as pessoas e se desenvolve cada dia mais, conseguindo se expressar e evoluir no mercado de trabalho.
+
+
+
+
 Madu:(luciano)
-Madu, uma líder, ótima amiga, e sempre vem com opiniões fortes,  
-
-
+Madu, uma líder, ótima amiga, e sempre vem com opiniões fortes,Muito prestativa e inteligente sempre se destacando,uma ótima pessoa e uma ótima profissional.
 Maria k:(madu)
-
-
-
-
-Mateus:(madu)
-
-
-
-
+Maria, que é impressionante a forma como ela se desenvolveu com o passar do tempo no pescar, sendo como uma flor ao desabrochar na primavera, costuma a falar e expressar sua opinião sempre que necessário, trás ideias maravilhosas e inova cada vez que o assunto é câmera ou designs.
+Mateus:(luciano)
+Mateus, ele é definitivamente o mais gente boa, o cara mais tranquilo e um dos ótimos programadores da turma, futuramente ele será um dos melhores programadores do mercado.
 Miguel: (luciano)
-Miguel,um cara muito gente boa,carismático e bom amigo,Sabe se portar muito bem e será incrível no mercado de trabalho.
+Miguel, um cara muito gente boa, carismático e bom amigo, sabe se portar diante de situações empresariais, tendo uma história emocionante, e sendo uma pessoa que busca sempre ajudar o próximo.
+
