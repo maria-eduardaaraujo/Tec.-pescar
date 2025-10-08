@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link id="link-dg2601" rel="icon" href="1a51d979a9bcc21c636eaf72c8ee776c531221d7.png">
-  <title>Turma T.I</title>
+  <title>TEC-Pescar</title>
   <style>
     * {
       margin: 0;
@@ -14,7 +14,7 @@
 
     body {
       min-height: 100vh;
-      background-image: linear-gradient(to bottom, rgb(248, 110, 110), rgb(225, 129, 252), rgb(106, 106, 255));
+      background-image: linear-gradient(to bottom, #0606c7, #0a7bf5);
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -24,15 +24,25 @@
 
     header h1 {
       color: white;
+      position: absolute;
       text-shadow: 2px 2px 4px black;
-      text-align: center;
+      left: 26rem;
       margin-bottom: 1.5rem;
-      font-size: 5rem;
+      font-size: 7rem;
+      top: 2rem;
+    }
+
+    p {
+        text-align: center;
+        color: white;
     }
 
     .img img {
-      width: 90%;
-      max-width: 400px;
+      width: 100%;
+      position: absolute;
+      bottom: 8rem;
+      left: 30rem;
+      max-width: 540px;
       height: auto;
       border-radius: 20px;
       display: block;
@@ -42,6 +52,8 @@
 
     button {
       background-color: #0077ff;
+      position: absolute;
+      bottom: 6rem;
       color: white;
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
       border: none;
@@ -69,13 +81,12 @@
 </head>
 <body>
   <header>
-    <h1>Turma T.I</h1>
+    <h1>TEC - Pescar</h1>
   </header>
-
+<p>O TEC-Pescar é um site criado pela turma de Tecnologia da Informação do Projeto Pescar, com o objetivo de apresentar nossa trajetória, conquistas e aprendizados ao longo do curso. Aqui, mostramos como a formação técnica e o trabalho em equipe podem transformar jovens em profissionais prontos para o futuro. Este espaço representa nossa dedicação, criatividade e o desejo de crescer juntos através da tecnologia.</p>
   <div class="img">
     <img src="Foto_turma.jpeg" alt="Foto da Turma T.I">
   </div>
-
   <button id="botao">Venha conhecer a nossa turma</button>
   <script>
     const botao = document.getElementById("botao");
