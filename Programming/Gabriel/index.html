@@ -55,7 +55,7 @@
 
 @media screen and (max-width: 599px) {
   .description {
-    max-height: 200x;
+    max-height: 200px;
   }
 }
 
@@ -75,6 +75,11 @@
     }
   </style>
   </head>
+  <script>
+    function redirect() {
+      window.location = "..//Mateus/Turma.html"
+    }
+  </script> 
 <body>
   <h1>TEC-Pescar</h1>
 
@@ -84,7 +89,7 @@
   <div class="description">
   <p>  O TEC-Pescar é um site criado pela turma de Tecnologia da Informação do Projeto Pescar, com o objetivo de apresentar nossa trajetória, conquistas e aprendizados ao longo do curso.<br><br>  Aqui, mostramos como a formação técnica e o trabalho em equipe podem transformar jovens em profissionais prontos para o futuro. Este espaço representa nossa dedicação, criatividade e o desejo de crescer juntos através da tecnologia.</p>
   </div>
-  <button id="botao">Venha conhecer a nossa turma</button>
+  <button id="botao" onclick="redirect()">Venha conhecer a nossa turma</button>
 
 
     <!-- JavaScript (Opcional) -->
