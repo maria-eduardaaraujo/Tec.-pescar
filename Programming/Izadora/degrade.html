@@ -1,17 +1,58 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Pompiere&display=swap" rel="stylesheet">
     <title>Degrade</title>
     <style>
         body {
-            margin: 0;
-            height: 100vh;
-            background-image: linear-gradient(to bottom, rgb(248, 110, 110), rgb(225, 129, 252), rgb(106, 106, 255));
+           font-family: "Pompiere", sans-serif; 
+           background: linear-gradient(to right, #de0f0f, #a27334, #57d644, #fffb00);
+           background-size: 500% 100%;
+           animation: gradiente 2s infinite alternate;
         }
+ 
+@keyframes gradiente {
+    0% {
+        background-position-x: 0%;
+    }
+
+    50% {
+        background-position-x: 50%;
+    }
+
+    100% {
+        background-position-x: 100%;
+    }
+
+}
+
+    
+
     </style>
+ <style>
+  .centro {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 20vh;             
+    text-align: center;
+  }
+
+  .centro p {
+    font-size: 100px;
+  }
+</style>
+
+<div class="centro">
+  <p>Porto Alegre</p>
+</div>
+
+
 </head>
 <body>
+
 </body>
 </html>
